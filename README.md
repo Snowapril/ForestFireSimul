@@ -15,6 +15,9 @@ If you need to modify framework codes, do it first and sharing code through pull
 *   stb_image
 *   tinyobjloader
 
+## Inspiration
+[![Forest fire simulation inspiration](https://i.ytimg.com/vi/AGCH1GR7pPU/maxresdefault.jpg)](https://www.youtube.com/embed/AGCH1GR7pPU)
+
 ## License
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
 
